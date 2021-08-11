@@ -9,7 +9,7 @@ from vpython import *
 
 g = 9.81  # kg/m^2
 l1 = 0.4  # meters
-l2 = l1  # meters
+l2 = 2*l1  # meters
 
 cmToPixel = 37.7952755906
 pixelToCm = 1/ cmToPixel
